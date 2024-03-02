@@ -2,7 +2,15 @@
 
 
 
-**Here are some ideas to get you started:**
+**Let's get started:**
+To get started let's install some tools:
+
+1. SQL Workbench
+We require this tool to access the database. This tool is an efficient way of doing so. To install this software visit this link and download the corresponding install file for your OS.
+
+
+2. Visual Studio Code
+Our team is focused on developing quality software, since this is the case we aim to use an IDE that is proven to be of quality. To install this tool visit this link and download the corresponding install file for your OS.
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
