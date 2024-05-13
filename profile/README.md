@@ -24,3 +24,27 @@ Termius seeks to provide an interface to access servers and other devices using 
 To install MS Teams visit this link:
 
 https://www.microsoft.com/en-au/microsoft-teams/education
+
+
+# To install python3
+
+Visit the following link:
+
+https://www.python.org/downloads/
+
+
+# To setup your API development environment
+
+Clone the following repository:
+
+``` git clone git@github.com:DataFarm-Tech/Net-Link.git ```
+
+To install required dependencies execute the following command:
+
+``` pip install -r requirements.txt```
+
+You can then run the API by executing this command:
+
+``` uvicorn main:app --reload ```
+
+Happy Hacking 😃
