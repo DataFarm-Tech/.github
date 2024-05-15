@@ -47,4 +47,10 @@ You can then run the API by executing this command:
 
 ``` uvicorn main:app --reload ```
 
+# To setup your Flutter Development environment
+
+Follow the following documentation:
+
+https://docs.flutter.dev/get-started/install/windows/mobile?tab=vscode
+
 Happy Hacking 😃
